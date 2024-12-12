@@ -45,17 +45,7 @@ cd tu-repositorio
 3. Ejecuta el script:
 python Supermarket.py
 
-4. Sigue las instrucciones del menú en consola:
-
-1. Agregar producto
-2. Modificar producto
-3. Eliminar producto
-4. Consultar productos
-5. Salir
-Seleccione una opción: 1
-Nombre del producto: Manzanas
-Cantidad: 10
-Precio: 2.5
+4. Sigue las instrucciones del menú en consola
 Producto agregado exitosamente.
 
 
